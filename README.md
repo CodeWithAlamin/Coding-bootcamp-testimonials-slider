@@ -1,13 +1,13 @@
 <h1 align="center">Coding bootcamp testimonials slider</h1>
 <div align="center">
 
-Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa360)
+Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodeWithAlamin)
 
 </div>
 
 <h2 align="center">
 
-[🚀Live Site](https://coding-bootcamp-testimonials-codepapa.netlify.app/)
+[🚀Live Site](https://coding-bootcamp-testimonials-alamin.netlify.app/)
 |
 [💡Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-coding-bootcamp-testimonials-slider-jqGB6z8c87)
 
@@ -17,9 +17,9 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa3
 The "Coding Bootcamp Testimonials Slider" is a responsive web component developed for a Frontend Mentor project. This interactive slider showcases coding bootcamp testimonials using HTML, CSS, and JavaScript. Users can easily navigate through testimonials with smooth transitions and a visually appealing design. It demonstrates skills in responsive design, CSS styling, and JavaScript interactivity.
 </p>
 
-<a align="center" href="https://coding-bootcamp-testimonials-codepapa.netlify.app/">
+<a align="center" href="https://coding-bootcamp-testimonials-alamin.netlify.app/">
 
-![Screenshot](./screenshots/Coding-bootcamp-testimonials-slider-codepapa360.png)
+![Screenshot](./screenshots/Coding-bootcamp-testimonials-slider-CodeWithAlamin.png)
 
 </a>
 
@@ -57,7 +57,7 @@ I am proud of the outcome of this project and the opportunity it provided for me
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Coding-bootcamp-testimonials-slider.git
+git clone https://github.com/CodeWithAlamin/Coding-bootcamp-testimonials-slider.git
 ```
 
 - Install dependencies:
@@ -82,10 +82,10 @@ npm start
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
@@ -99,4 +99,4 @@ Special thanks to Frontend Mentor for providing such an amazing platform to prac
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/CodePapa360/Coding-bootcamp-testimonials-slider/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
+This project is licensed under the [MIT](https://github.com/CodeWithAlamin/Coding-bootcamp-testimonials-slider/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
